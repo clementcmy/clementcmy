@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Clement
-- 👀 I am interested in getting a job in tech.
+- 👋 Hi, my name is Clement.
+- 👀 I am interested in getting a job in Data Science.
 - 🌱 I am currently during a career conversion course in Data Science with General Assembly!
 - 📫 How to reach me: https://www.linkedin.com/in/clement-cheng-4b9973177/
 
