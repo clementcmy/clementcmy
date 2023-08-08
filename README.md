@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Clement.
 - 👀 I am open to job opportunities.
-- 🌱 I have a keen interest in coding
+- 🌱 I have a keen interest in coding.
 - 📫 How to reach me: https://www.linkedin.com/in/clement-cheng-4b9973177/
 
 <!---
